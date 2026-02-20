@@ -118,14 +118,13 @@ docker run -v <YOUR-PROJECT-PATH-FOLDER>:/static-code-analysis-helper/Project os
 ## Usage
 
 ```
+Please, scan the only project files for the correct result.
 
 -f FOLDER [FOLDER], --folder Folder [FOLDER] Project Folder Path. --folder
 -p PROGRAMMING [PROGRAMMING], --programming python [PROGRAMMING] Select Programming Language. --programming
 -o OUTPUT [FILENAME] --output [FILENAME] Save output. --output
 
 Programming Language List : java, asp.net, python, dart, ruby, go, php, rust, javascript, perl, scala, golang, kotlin, julia
-
-Please, scan the only project files for the correct result.
 
 ```
 
